@@ -11,8 +11,33 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `*𝐇𝐈...👋🏻,𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 🤍🤹🏻‍♂️🎧𝐌𝐔𝐒𝐈𝐂 𝐖𝐎𝐑𝐋𝐃 𝐁𝐎𝐓™🤍🎧🤹🏻‍♂️ *
+
+🥰🚫𝐍𝐎 𝐒𝐀𝐏𝐌
+
+🥰🚫𝐍𝐎 𝐒𝐄𝐗 𝐕𝐈𝐃𝐄𝐎 𝐀𝐍𝐃 𝐏𝐇𝐎𝐓𝐎 𝐒𝐄𝐍𝐃 
+
+🥰🚫𝐍𝐎 𝐒𝐇𝐀𝐑𝐄 𝐆𝐑𝐎𝐔𝐏 𝐋𝐈𝐍𝐊 
+
+🥰🚫𝐍𝐎 𝐁𝐀𝐃 𝐖𝐎𝐑𝐃𝐒
+
+*📌🖇️You can get SONG, VIDEO, YOUTUBE VIDEO, PHOTO , LOGO, EHI ,MEDIAFIRE,MODAPK*
+
+*To see if the bot is online, type .alive and send*😴🌻
+
+ 
+
+*📌🖇️Don t ask for bad ones.*
+
+*📌🖇️ Don t go to Bot s inbox*
+
+*📌🖇️Don t put the link, it will be auto removed.*
+
+*Group link.🧟‍♂️🖤*
+
+https://chat.whatsapp.com/FzHxl1Mri6cCLlNlZ3Usna
+
+*© Powered by Dinuwa🧟‍♂️🖤*` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -30,7 +55,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
 global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
+global.ownername = "𝐃𝐈𝐍𝐔𝐖𝐀 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 ❤" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
@@ -40,20 +65,20 @@ global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive pictur
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
-global.antibad = "false" // To remove bad word senders
+global.antibad = "true" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
-global.antilink = "false" // To remove group link sharing peoples
+global.antilink = "true" // To remove group link sharing peoples
 global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.owner = ['+94727845122']
+global.ownertag = '+94717845122' //your tag number
+global.botname = '𝐃𝐈𝐍𝐔𝐖𝐀 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐁𝐎𝐓' //ur bot name
+global.packname = "𝐃𝐈𝐍𝐔𝐖𝐀 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐁𝐎𝐓" // sticker packname
+global.author = "𝐃𝐈𝐍𝐔𝐖𝐀 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐁𝐎𝐓" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.footer = '[ @ᴅɪɴᴜᴡᴀ - ᴏꜰꜰɪᴄɪᴀʟ -ʙᴏᴛ]' //
 
 //database
 global.premium = ['+380944814219'] //ur premium numbers
